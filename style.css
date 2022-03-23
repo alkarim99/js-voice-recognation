@@ -1,0 +1,22 @@
+a#button{
+	text-decoration: none;
+	color: #000;
+	background-color: hsl(163, 72%, 41%);
+	padding: 10px 20px;
+}
+img{
+	display: block;
+	width: 20%;
+	margin-top: 30px;
+}
+img#mobil,
+img#motor{
+	display: none;
+}
+ul{
+	display: none;
+	margin-top: 30px;
+}
+li{
+	list-style: none;
+}
